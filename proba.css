@@ -1,0 +1,142 @@
+body {
+background: url(img/1675475188_gas-kvas-com-p-zvezdnoe-nebo-fonovii-risunok-5.jpg);
+}
+h1 {
+   color: white;
+   position: absolute;
+   top: 200px;
+   left: 500px;
+   width: 500px;
+   font-size: 50px;
+}
+h2 {
+   color: white;
+   position: absolute;
+   top: 250px;
+   left: 500px;
+   font-size: 40px;
+}
+p {
+   color: white;
+   left: 500px;
+   top: 350px;
+   position: absolute;
+   width: 700px;
+}
+.d1 {
+   position: absolute;
+   width: 380px;
+   height: 1296px;
+   left: 0px;
+   background:rgb(1, 1, 14) ;
+   }
+.top {
+   margin-left: auto; 
+   margin-right: auto ;
+   text-align: center;
+   height: 44px;
+   width: 137px;
+   }
+b {
+   color: blue;
+   font-size: 20px;
+   text-align: center;
+}
+c {
+   color: white;
+   font-size: 20px;
+}  
+.middle {
+   padding: 0px;
+   margin-left: auto;
+   margin-right: auto;
+   margin-top: 100px;
+   height: 800px;
+   text-align: center;
+   line-height: 25px;
+}
+.middle-a {
+   margin-left: auto;
+   margin-right: auto;
+   margin-top: 200px;
+   line-height: 30px;
+}   
+d {
+   text-align: center;
+   line-height: 36px;   
+   color: #F2C94C;
+}
+.middle-b {
+   margin-left: auto;
+   margin-right: auto; 
+   margin-top: auto;
+}
+dl1  {
+   text-align: center;
+   line-height: 36px; 
+}
+dd {
+   color: white;
+}
+.down {
+   margin-left: auto;
+   margin-right: auto;
+   margin-top: 600px;
+   text-align: center;
+   color: white;
+   font-size: 25px;   
+   line-height: 30px;
+}
+.cards {
+   position: absolute;
+   width: 1000px;  
+   height: 150px;
+   left: 500px;
+   top: 700px;
+}
+img {
+   border: 2px solid #fff;
+   padding: 1px 1px 1px 1px;
+   color: #fff;
+   width: 200px;
+   top: 500px;
+   height: 150px;
+}
+.img:hover {
+   border:2px solid #F2C94C;
+}
+img {
+   width: 200px;
+   top: 500px;
+   height: 150px;
+}
+img {
+   width: 200px;
+   top: 500px;
+   height: 150px;
+}
+img {
+   width: 200px;
+   top: 500px;
+   height: 150px;
+}
+.info {
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   font-size: 36px;
+   color: white;
+   top: 500px;
+   position: absolute;
+   left: 500px;
+   width: 350px;
+   border: 2px solid #fff;
+   padding: 1px 1px 1px 1px;
+   text-align: center;
+}
+.in {
+   font-family: 'Times New Roman', Times, serif;
+   font-size: 50px;
+   position: absolute;
+   left: 500px;
+   top: 1000px;
+   color: white;
+}
